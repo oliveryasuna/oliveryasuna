@@ -33,7 +33,7 @@ I don't drink <img src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-
 ## GitHub Stats
 
 <a href="https://github.com/oliveryasuna">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliveryasuna&show_icons=true&line_height=27&count_private=true&text_color=000000&border_color=00abe7&icon_color=00abe7&bg_color=ffffff"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliveryasuna&show_icons=true&line_height=27&count_private=true&text_color=000000&border_color=00abe7&icon_color=00abe7&bg_color=ffffff&hide_rank=true&disable_animations=true"/>
 </a>
 <a href="https://github.com/oliveryasuna">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveryasuna&text_color=000000&border_color=00abe7&bg_color=ffffff&langs_count=3" />
