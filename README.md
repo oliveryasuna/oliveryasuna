@@ -27,7 +27,6 @@ I don't drink <img src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-
 ![Hibernate](https://a11ybadges.com/badge?logo=hibernate)
 ![Vaadin](https://a11ybadges.com/badge?logo=vaadin)
 ![Lit](https://a11ybadges.com/badge?logo=lit)
-![Polymer Project](https://a11ybadges.com/badge?logo=polymerproject)
 
 ## GitHub Stats
 
