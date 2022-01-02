@@ -6,7 +6,7 @@ I started my journey at age twelve, teaching myself x86 asm and C to exploit Ahn
 
 I graduated Summa Cum Laude from Massachusetts Bay College and continue my never-ceasing education as a Computer Science student at Worcester Polytechnic Institute.
 
-Currently, I am working on [Beanbag](https://github.com/oliveryasuna/beanbag-parent), offerring observable data structures in Java. I am also developing a [web app](https://github.com/WPI-Gordon-Library) for WPI's library and managing the backend code and servers for [The Bio-CS Bridge](https://biocsbridge.wpi.edu/) and the [Beecology Project](https://beecology.wpi.edu/).
+Currently, I am working on [Beanbag](https://github.com/oliveryasuna/beanbag), offerring observable data structures in Java. I am also developing a [web app](https://github.com/WPI-Gordon-Library) for WPI's library and managing the backend code and servers for [The Bio-CS Bridge](https://biocsbridge.wpi.edu/) and the [Beecology Project](https://beecology.wpi.edu/).
 
 On my free-time, I enjoy researching existing technologies to identify room for improvement or addition. For example, I wrote [Gimme DOM](https://github.com/oliveryasuna/gimme-dom), an extension for Vaadin 8, enabling legacy Vaadin developers to access client-side DOM. Similar features were adopted natively in later Vaadin versions.
 
