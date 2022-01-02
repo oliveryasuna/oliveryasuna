@@ -8,7 +8,7 @@ I graduated Summa Cum Laude from Massachusetts Bay Community College and continu
  
 On my free-time, I enjoy researching existing technologies to identify room for improvement or addition. For example, I wrote [Gimme DOM](https://github.com/oliveryasuna/gimme-dom), an extension for Vaadin 8, enabling legacy Vaadin developers to access client-side DOM. Similar features were adopted natively in later Vaadin versions.
 
-Currently, I am working on [Fluent Flow](https://github.com/oliveryasuna/fluent-flow), an addon for Vaadin 14+ that simplifies UI composition through shorter, more powerful code. I am also developing a [web app](https://github.com/WPI-Gordon-Library) for WPI's library.
+Currently, I am working on [Beanbag](https://github.com/oliveryasuna/beanbag-parent), offerring observable data structures in Java. I am also developing a [web app](https://github.com/WPI-Gordon-Library) for WPI's library and managing the backend code and servers for [The Bio-CS Bridge](https://biocsbridge.wpi.edu/) and the [Beecology Project](https://beecology.wpi.edu/).
 
 I don't drink <img src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/black/svg/coffee.svg" alt="coffee" width="18px"/>, but I'm going to tell you that I do so that you'll check out my [GitHub Sponsors](https://github.com/sponsors/oliveryasuna) page. I DRINK COFFEE. Thank you for your support!
 
