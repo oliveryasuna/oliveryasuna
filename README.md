@@ -4,7 +4,7 @@ Hi, I'm Oliver!
 
 I started my journey at age twelve, teaching myself x86 asm and C to exploit AhnLab's HackShield Pro. Fast-forward some number of years: I am a Java and JavaScript fullstack developer. I work as a Software Architect & Programmer at [MyDataOnly](https://mydataonly.com/), an internet privacy and security company, where I manage our cloud platform and write super secret code that I can't talk about.
 
-I graduated Summa Cum Laude from Massachusetts Bay Community College and continue my never-ceasing education as a Computer Science student at Worcester Polytechnic Institute.
+I graduated Summa Cum Laude from Massachusetts Bay College and continue my never-ceasing education as a Computer Science student at Worcester Polytechnic Institute.
  
 On my free-time, I enjoy researching existing technologies to identify room for improvement or addition. For example, I wrote [Gimme DOM](https://github.com/oliveryasuna/gimme-dom), an extension for Vaadin 8, enabling legacy Vaadin developers to access client-side DOM. Similar features were adopted natively in later Vaadin versions.
 
