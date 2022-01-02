@@ -4,7 +4,7 @@ Hi, I'm Oliver!
 
 My journel began at age 10 by teaching myself Assembly and C to exploit AhnLab's HackShield Pro. Fast-forward some number of years: I am a Java and JavaScript full-stack developer. I work at [MyDataOnly](https://mydataonly.com/), an internet privacy and security company, where I manage our cloud platform and write super-secret code that I can't talk about.
 
-I attend Worcester Polytechnic Insitute after graduating Summa Cum Laude from Massachusetts Bay College.
+I graduated Summa Cum Laude from Massachusetts Bay College and now attend Worcester Polytechnic Insititute.
 
 I am currently working on [Beanbag](https://github.com/oliveryasuna/beanbag), offering observable data structures in Java. I am also developing a [web application](https://github.com/WPI-Gordon-Library) for WPI's library and managing the back-end code and servers for [The Bio-CS Bridge](https://biocsbridge.wpi.edu/) and the [Beecology Project](https://beecology.wpi.edu/).
 
