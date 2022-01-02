@@ -2,15 +2,15 @@
 
 Hi, I'm Oliver!
 
-I started my journey at age twelve, teaching myself x86 asm and C to exploit AhnLab's HackShield Pro. Fast-forward some number of years: I am a Java and JavaScript fullstack developer. I work as a Software Architect & Programmer at [MyDataOnly](https://mydataonly.com/), an internet privacy and security company, where I manage our cloud platform and write super secret code that I can't talk about.
+My journel began at age 10 by teaching myself Assembly and C to exploit AhnLab's HackShield Pro. Fast-forward some number of years: I am a Java and JavaScript full-stack developer. I work at [MyDataOnly](https://mydataonly.com/), an internet privacy and security company, where I manage our cloud platform and write super-secret code that I can't talk about.
 
-I graduated Summa Cum Laude from Massachusetts Bay College and continue my never-ceasing education as a Computer Science student at Worcester Polytechnic Institute.
+I attend Worcester Polytechnic Insitute after graduating Summa Cum Laude from Massachusetts Bay College.
 
-Currently, I am working on [Beanbag](https://github.com/oliveryasuna/beanbag), offerring observable data structures in Java. I am also developing a [web app](https://github.com/WPI-Gordon-Library) for WPI's library and managing the backend code and servers for [The Bio-CS Bridge](https://biocsbridge.wpi.edu/) and the [Beecology Project](https://beecology.wpi.edu/).
+I am currently working on [Beanbag](https://github.com/oliveryasuna/beanbag), offering observable data structures in Java. I am also developing a [web application](https://github.com/WPI-Gordon-Library) for WPI's library and managing the back-end code and servers for [The Bio-CS Bridge](https://biocsbridge.wpi.edu/) and the [Beecology Project](https://beecology.wpi.edu/).
 
-On my free-time, I enjoy researching existing technologies to identify room for improvement or addition. For example, I wrote [Gimme DOM](https://github.com/oliveryasuna/gimme-dom), an extension for Vaadin 8, enabling legacy Vaadin developers to access client-side DOM. Similar features were adopted natively in later Vaadin versions.
+On my free-time, I enjoy researching existing technologies to identify room for improvement or addition. For example, I wrote [Fluent Flow](https://github.com/oliveryasuna/fluent-flow), an addon for Vaadin Flow that simplifies UI composition by offering the opportunity to write cleaner and more powerful code. I also wrote [Gimme DOM](https://github.com/oliveryasuna/gimme-dom), an extension for Vaadin 8 enabling legacy Vaadin developers to access client-side DOM. Similar features were adopted in later Vaadin versions.
 
-I don't drink <img src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/black/svg/coffee.svg" alt="coffee" width="18px"/>, but I'm going to tell you that I do so that you'll check out my [GitHub Sponsors](https://github.com/sponsors/oliveryasuna) page. I DRINK COFFEE. Thank you for your support!
+I don't drink <img src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-PNG/master/black/svg/coffee.svg" alt="coffee" width="18px"/>, but let's pretend I do so that you'll check out my [GitHub Sponsors](https://github.com/sponsors/oliveryasuna) page. Your support helps me make the time to code great things!
 
 ## Technologies & Tools
 
