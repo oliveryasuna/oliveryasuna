@@ -2,7 +2,7 @@
 
 Hi, I'm Oliver!
 
-My journel began at age 10 by teaching myself Assembly and C to exploit AhnLab's HackShield Pro. Fast-forward some number of years: I am a Java and JavaScript full-stack developer. I work at [MyDataOnly](https://mydataonly.com/), an internet privacy and security company, where I manage our cloud platform and write super-secret code that I can't talk about.
+My journey began at age 10 by teaching myself Assembly and C to exploit AhnLab's HackShield Pro. Fast-forward some number of years: I am a Java and JavaScript full-stack developer. I work at [MyDataOnly](https://mydataonly.com/), an internet privacy and security company, where I manage our cloud platform and write super-secret code that I can't talk about.
 
 I graduated Summa Cum Laude from Massachusetts Bay College and now attend Worcester Polytechnic Insititute.
 
