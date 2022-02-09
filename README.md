@@ -24,6 +24,8 @@ I don't drink <img src="https://raw.githubusercontent.com/Rush/Font-Awesome-SVG-
 ![MySQL](https://a11ybadges.com/badge?logo=mysql)<br/>
 ![Spring](https://a11ybadges.com/badge?logo=spring)
 ![Hibernate](https://a11ybadges.com/badge?logo=hibernate)
+![Angular](https://a11ybadges.com/badge?logo=angular)
+![NativeScript](https://a11ybadges.com/badge?logo=nativescript)
 ![Vaadin](https://a11ybadges.com/badge?logo=vaadin)
 ![Lit](https://a11ybadges.com/badge?logo=lit)
 
