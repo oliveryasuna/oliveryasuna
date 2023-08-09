@@ -11,7 +11,7 @@ My most recent project is [vaadin-logrocket-integration](https://github.com/oliv
 Also, check out my [abstract algebra project](https://github.com/oliveryasuna/math).
 
 On my free-time, I enjoy researching existing technologies to identify room for improvement or addition.
-For example, I wrote [Fluent Flow](https://github.com/oliveryasuna/fluent-flow), an addon for Vaadin Flow that simplifies UI composition by offering the opportunity to write cleaner and more powerful code.
+For example, I wrote [Fluent Flow](https://github.com/oliveryasuna/fluent-flow-2), an addon for Vaadin Flow that simplifies UI composition by offering the opportunity to write cleaner and more powerful code.
 I also wrote [Gimme DOM](https://github.com/oliveryasuna/gimme-dom), an extension for Vaadin 8 enabling legacy Vaadin developers to access client-side DOM.
 Similar features were adopted in later Vaadin versions.
 
