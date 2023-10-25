@@ -15,11 +15,12 @@ Hi, I'm Oliver!
 <code><img height="20" alt="Lit" src="https://coryrylan.com/assets/images/posts/types/lit.svg"></code>
 <code><img height="20" alt="AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 
-My most recent project is [vaadin-logrocket-integration](https://github.com/oliveryasuna/vaadin-logrocket-integration).
+I am currently working on [google](https://github.com/oliveryasuna/googa), a strongly-typed SQL query builder for TypeScript.
+My most recent release is [vaadin-logrocket-integration](https://github.com/oliveryasuna/vaadin-logrocket-integration).
 Also, check out my [abstract algebra project](https://github.com/oliveryasuna/math).
 
 On my free-time, I enjoy researching existing technologies to identify room for improvement or addition.
-For example, I wrote [Fluent Flow](https://github.com/oliveryasuna/fluent-flow-2), an addon for Vaadin Flow that simplifies UI composition by offering the opportunity to write cleaner and more powerful code.
+[Fluent Flow](https://github.com/oliveryasuna/fluent-flow-2) simplifies Vaadin UI composition with cleaner and more powerful code.
 I also wrote [Gimme DOM](https://github.com/oliveryasuna/gimme-dom), an extension for Vaadin 8 enabling legacy Vaadin developers to access client-side DOM.
 Similar features were adopted in later Vaadin versions.
 
