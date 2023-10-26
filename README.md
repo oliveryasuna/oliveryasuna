@@ -15,7 +15,7 @@ Hi, I'm Oliver!
 <code><img height="20" alt="Lit" src="https://coryrylan.com/assets/images/posts/types/lit.svg"></code>
 <code><img height="20" alt="AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 
-I am currently working on [google](https://github.com/oliveryasuna/googa), a strongly-typed SQL query builder for TypeScript.
+I am currently working on [googa](https://github.com/oliveryasuna/googa), a strongly-typed SQL query builder for TypeScript.
 My most recent release is [vaadin-logrocket-integration](https://github.com/oliveryasuna/vaadin-logrocket-integration).
 Also, check out my [abstract algebra project](https://github.com/oliveryasuna/math).
 
