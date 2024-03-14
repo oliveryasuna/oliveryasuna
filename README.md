@@ -28,3 +28,98 @@ Similar features were adopted in later Vaadin versions.
 
 I don't drink ☕, but let's pretend I do so that you'll check out my [GitHub Sponsors](https://github.com/sponsors/oliveryasuna) page.
 Your support helps me make the time to code great things!
+
+### Computer Science & Mathematics
+
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/math">Mathematics Library</a></b><br/>
+      Abstract algebra mathematics structures and components.
+    </td>
+    <td width="25%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/crypto">Cryptography Library</a></b><br/>
+      TOTP (RFC 6238) and HOTP (RFC 4226) reference implementations more for practice.
+    </td>
+    <td width="25%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/googa">Googa</a></b><br/>
+      Strongly-typed SQL query build for TypeScript.
+    </td>
+    <td width="25%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/automaton">Automaton</a></b><br/>
+      Simple automaton structures.
+    </td>
+  </tr>
+</table>
+
+### Vaadin
+
+<table width="100%">
+  <tr>
+    <td width="33.33%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/fluent-flow-2">Fluent Flow</a></b><br/>
+      Fluent factorites for all things Vaadin.
+    </td>
+    <td width="33.33%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/vaadin-logrocket-integration">Vaadin LogRocket Integration</a></b><br/>
+      LogRocket integration for Vaadin.
+    </td>
+    <td width="33.34%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/vaadin-leaflet">Vaadin Leaflet Integration</a></b><br/>
+      Leaflet map component and utilities for Vaadin.
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/flow-commons">Flow Commons</a></b><br/>
+      A commons library for Vaadin Flow.
+    </td>
+    <td width="33.33%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/vaadin-code-block">Vaadin Code Block</a></b><br/>
+      Vaadin mapping for my <code>&lt;code-block&gt;</code> element, which wraps Prism.
+    </td>
+    <td width="33.34%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/lit-component">Lit Component</a></b><br/>
+      Model LitElement web components with Vaadin.
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/gimme-dom">Gimme DOM</a></b><br/>
+      A Vaadin 8 extension enabling developers to have more control over the web DOM.
+    </td>
+    <td width="33.33%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/vaadin-jetty-guice">Vaadin + Jetty + Guice</a></b><br/>
+      A Vaadin servlet running in an embedded Jetty server with Guice as a dependency injection framework.
+    </td>
+    <td width="33.34%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/vaadin-native-image">Vaadin Native Image</a></b><br/>
+      Example of a Vaadin application that can be compiled to a native image using GraalVM.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" valign="top">
+      <b><a href="https://github.com/oliveryasuna/vaadin-react">React-in-Vaadin</a></b><br/>
+      Proof-of-concept using React in Vaadin.
+    </td>
+  </tr>
+</table>
+
+### Miscellaneous
+
+<table width="100%">
+  <tr>
+    <td width="33.33%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/commons-language">Commons Language</a></b><br/>
+      Java language commons.
+    </td>
+    <td width="33.33%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/beanbag">Beanbag</a></b><br/>
+      Observable Java structures.
+    </td>
+    <td width="33.34%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/lit-shop">Lit Shop</a></b><br/>
+      A collection of Lit frameworks and libraries.
+    </td>
+  </tr>
+</table>
