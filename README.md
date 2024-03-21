@@ -56,6 +56,12 @@ Your support helps me make the time to code great things!
 
 <table width="100%">
   <tr>
+    <td colspan="3" valign="top">
+      <b><a href="https://github.com/oliveryasuna/vaadin-react">React-in-Vaadin</a></b><br/>
+      Proof-of-concept using React in Vaadin.
+    </td>
+  </tr>
+  <tr>
     <td width="33.33%" valign="top">
       <b><a href="https://github.com/oliveryasuna/fluent-flow-2">Fluent Flow</a></b><br/>
       Fluent factorites for all things Vaadin.
@@ -95,12 +101,6 @@ Your support helps me make the time to code great things!
     <td width="33.34%" valign="top">
       <b><a href="https://github.com/oliveryasuna/vaadin-native-image">Vaadin Native Image</a></b><br/>
       Example of a Vaadin application that can be compiled to a native image using GraalVM.
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" valign="top">
-      <b><a href="https://github.com/oliveryasuna/vaadin-react">React-in-Vaadin</a></b><br/>
-      Proof-of-concept using React in Vaadin.
     </td>
   </tr>
 </table>
