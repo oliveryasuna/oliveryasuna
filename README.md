@@ -4,7 +4,7 @@ Hi, I'm Oliver!
 
 * 💻 Software Engineer at [Sferion](https://sferion.com/).
 * 🎓 Researcher at [WPI](https://www.wpi.edu/).
-* 🧑‍💻️ Working with Java, Spring, Vaadin, TypeScript, and more!
+* 🧑‍💻️ Working with Java, Spring, React, Vaadin, TypeScript, and more!
 * ❤️ [jOOQ](https://www.jooq.org/) fanatic. [Don't use Hibernate](https://www.toptal.com/java/how-hibernate-ruined-my-career).
 
 <code><img height="20" alt="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
