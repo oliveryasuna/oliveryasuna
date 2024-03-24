@@ -17,7 +17,7 @@ Hi, I'm Oliver!
 <code><img height="20" alt="jOOQ" src="https://www.jooq.org/img/jooq-logo-black.png"></code>
 <code><img height="20" alt="AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 
-I am currently working on [googa](https://github.com/oliveryasuna/googa), a strongly-typed SQL query builder for TypeScript.
+I am currently working on [Themeable](https://github.com/oliveryasuna/themeable), a simplified theme management system for React.
 My most recent release is [vaadin-logrocket-integration](https://github.com/oliveryasuna/vaadin-logrocket-integration).
 Also, check out my [abstract algebra project](https://github.com/oliveryasuna/math).
 
@@ -39,15 +39,30 @@ Your support helps me make the time to code great things!
     </td>
     <td width="25%" valign="top">
       <b><a href="https://github.com/oliveryasuna/crypto">Cryptography Library</a></b><br/>
-      TOTP (RFC 6238) and HOTP (RFC 4226) reference implementations more for practice.
+      TOTP (RFC 6238) and HOTP (RFC 4226) reference implementations, and more, for practice.
     </td>
     <td width="25%" valign="top">
-      <b><a href="https://github.com/oliveryasuna/googa">Googa</a></b><br/>
+      <b><a href="https://github.com/oliveryasuna/googa">Googa</a></b> (on hold)<br/>
       Strongly-typed SQL query build for TypeScript.
     </td>
     <td width="25%" valign="top">
       <b><a href="https://github.com/oliveryasuna/automaton">Automaton</a></b><br/>
       Simple automaton structures.
+    </td>
+  </tr>
+</table>
+
+### React
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/themeable">Themeable</a></b><br/>
+      Simplified theme management for your React applications.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/oliveryasuna/vaadin-react">React-in-Vaadin</a></b><br/>
+      Proof-of-concept using React in Vaadin.
     </td>
   </tr>
 </table>
