@@ -26,9 +26,6 @@ On my free-time, I enjoy researching existing technologies to identify room for 
 I also wrote [Gimme DOM](https://github.com/oliveryasuna/gimme-dom), an extension for Vaadin 8 enabling legacy Vaadin developers to access client-side DOM.
 Similar features were adopted in later Vaadin versions.
 
-I don't drink ☕, but let's pretend I do so that you'll check out my [GitHub Sponsors](https://github.com/sponsors/oliveryasuna) page.
-Your support helps me make the time to code great things!
-
 ### Computer Science & Mathematics
 
 <table width="100%">
