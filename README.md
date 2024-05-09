@@ -54,7 +54,7 @@ Similar features were adopted in later Vaadin versions.
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/oliveryasuna/themeable">Themeable</a></b><br/>
+      <b><a href="https://github.com/oliveryasuna/themeable">Themeable</a></b> (in-progress)<br/>
       Simplified theme management for your React applications.
     </td>
     <td width="50%" valign="top">
