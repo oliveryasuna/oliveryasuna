@@ -39,12 +39,13 @@ Similar features were adopted in later Vaadin versions.
       TOTP (RFC 6238) and HOTP (RFC 4226) reference implementations, and more, for practice.
     </td>
     <td width="25%" valign="top">
-      <b><a href="https://github.com/oliveryasuna/googa">Googa</a></b> (on hold)<br/>
+      <b><a href="https://github.com/oliveryasuna/googa">Googa</a></b> (abandoned)<br/>
       Strongly-typed SQL query build for TypeScript.
     </td>
     <td width="25%" valign="top">
       <b><a href="https://github.com/oliveryasuna/automaton">Automaton</a></b><br/>
       Simple automaton structures.
+      This was just practice.
     </td>
   </tr>
 </table>
