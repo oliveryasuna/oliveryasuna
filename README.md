@@ -60,7 +60,7 @@ Similar features were adopted in later Vaadin versions.
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/oliveryasuna/vaadin-react">React-in-Vaadin</a></b><br/>
-      Proof-of-concept using React in Vaadin.
+      Proof-of-concept using React in Vaadin (without Hilla).
     </td>
   </tr>
 </table>
