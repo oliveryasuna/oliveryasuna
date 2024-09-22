@@ -19,7 +19,7 @@ Hi, I'm Oliver!
 
 I am currently working on [Themeable](https://github.com/oliveryasuna/themeable), a simplified theme management system for React.
 My most notable recent release is [vaadin-logrocket-integration](https://github.com/oliveryasuna/vaadin-logrocket-integration).
-Also, check out [abstract algebra project](https://github.com/oliveryasuna/math).
+Also, check out my [abstract algebra project](https://github.com/oliveryasuna/math).
 
 On my free-time, I enjoy researching existing technologies to identify room for improvement or addition.
 [Fluent Flow](https://github.com/oliveryasuna/fluent-flow-2) simplifies Vaadin UI composition with cleaner and more powerful code.
