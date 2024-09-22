@@ -30,7 +30,7 @@ Similar features were adopted in later Vaadin versions.
   <tbody>
     <tr>
       <td width="50%" valign="top">
-        <h2>Computer Science  ⁄ Math</h2>
+        <h2>Computer Science  ⁄  Math</h2>
         <p>
           <b><a href="https://github.com/oliveryasuna/math">Mathematics Library</a></b><br/>
           Abstract algebra mathematics structures and components.
