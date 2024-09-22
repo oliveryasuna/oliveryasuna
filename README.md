@@ -41,7 +41,7 @@ Similar features were adopted in later Vaadin versions.
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/googa">Googa</a></b> (abandoned)<br/>
-          Strongly-typed SQL query build for TypeScript.
+          Strongly-typed SQL query builder for TypeScript.
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/automaton">Automaton</a></b><br/>
