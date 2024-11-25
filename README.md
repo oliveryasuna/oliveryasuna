@@ -72,6 +72,10 @@ Similar features were adopted in later Vaadin versions.
       <td width="50%" valign="top">
         <h2>Capacitor</h2>
         <p>
+          <b><a href="https://github.com/oliveryasuna/capacitor-sqlite-drivers">Capacitor SQLite Drivers</a></b><br/>
+          Capacitor SQLite drivers for various ORMs.
+        </p>
+        <p>
           <b><a href="https://github.com/oliveryasuna/capacitor-missing-info">Missing Info</a></b><br/>
           A growing collection of missing and extra features for Capacitor apps.
         </p>
