@@ -2,10 +2,10 @@
 
 Hi, I'm Oliver!
 
-* Software Engineer at [Sferion](https://sferion.com/).
-* Researcher at [WPI](https://www.wpi.edu/).
-* Currently working with Java, React, Capacitor, Vaadin, jOOQ, and more!
-* [jOOQ](https://www.jooq.org/) fanatic. [Don't use Hibernate](https://www.toptal.com/java/how-hibernate-ruined-my-career).
+* 💻 Software Engineer at [Sferion](https://sferion.com/).
+* 🎓 Researcher at [WPI](https://www.wpi.edu/).
+* 🧑‍💻️ Currently working with Java, TypeScript, React, Capacitor, Vaadin, jOOQ, and more!
+* ❤️ [jOOQ](https://www.jooq.org/) fanatic. [Don't use Hibernate](https://www.toptal.com/java/how-hibernate-ruined-my-career).
 
 <code><img height="20" alt="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
 <code><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -17,11 +17,15 @@ Hi, I'm Oliver!
 <code><img height="20" alt="jOOQ" src="https://www.jooq.org/img/jooq-logo-black.png"></code>
 <code><img height="20" alt="AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 
-I am currently working on [Themeable](https://github.com/oliveryasuna/themeable), a simplified theme management system for React.
+I am currently working on:
+* [Capacitor SQLite Drivers](https://github.com/oliveryasuna/capacitor-sqlite-drivers) – Capacitor SQLite drivers for various ORMs.
+* [Themeable](https://github.com/oliveryasuna/themeable) – Simplified theme management system for React.
+
 My most notable recent release is [vaadin-logrocket-integration](https://github.com/oliveryasuna/vaadin-logrocket-integration).
 Also, check out my [abstract algebra project](https://github.com/oliveryasuna/math).
 
 On my free-time, I enjoy researching existing technologies to identify room for improvement or addition.
+I have written a lot for [Vaadin](https://vaadin.com/).
 [Fluent Flow](https://github.com/oliveryasuna/fluent-flow-2) simplifies Vaadin UI composition with cleaner and more powerful code.
 I also wrote [Gimme DOM](https://github.com/oliveryasuna/gimme-dom), an extension for Vaadin 8 enabling legacy Vaadin developers to access client-side DOM.
 Similar features were adopted in later Vaadin versions.
