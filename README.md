@@ -85,6 +85,10 @@ Similar features were adopted in later Vaadin versions.
         </p>
         <h2>Miscellaneous</h2>
         <p>
+          <b><a href="https://github.com/oliveryasuna/cereal">Cereal</a></b><br/>
+          A simple binary serialization format for JSON.
+        </p>
+        <p>
           <b><a href="https://github.com/oliveryasuna/commons-language">Commons Language</a></b><br/>
           Java language commons.
         </p>
