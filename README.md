@@ -21,7 +21,7 @@ I am currently working on:
 * [Capacitor SQLite Drivers](https://github.com/oliveryasuna/capacitor-sqlite-drivers) – Capacitor SQLite drivers for various ORMs.
 * [Themeable](https://github.com/oliveryasuna/themeable) – Simplified theme management system for React.
 
-My most notable recent releases are [vaadin-react-renderer](https://github.com/oliveryasuna/vaadin-react-renderer) and [vaadin-logrocket-integration](https://github.com/oliveryasuna/vaadin-logrocket-integration).
+My most notable recent release is [vaadin-react-renderer](https://github.com/oliveryasuna/vaadin-react-renderer).
 Also, check out my [abstract algebra project](https://github.com/oliveryasuna/math).
 
 On my free-time, I enjoy researching existing technologies to identify room for improvement or addition.
