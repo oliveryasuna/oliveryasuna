@@ -21,7 +21,7 @@ I am currently working on:
 * [Capacitor SQLite Drivers](https://github.com/oliveryasuna/capacitor-sqlite-drivers) – Capacitor SQLite drivers for various ORMs.
 * [Themeable](https://github.com/oliveryasuna/themeable) – Simplified theme management system for React.
 
-My most notable recent release is [vaadin-logrocket-integration](https://github.com/oliveryasuna/vaadin-logrocket-integration).
+My most notable recent releases are [vaadin-react-renderer](https://github.com/oliveryasuna/vaadin-react-renderer) and [vaadin-logrocket-integration](https://github.com/oliveryasuna/vaadin-logrocket-integration).
 Also, check out my [abstract algebra project](https://github.com/oliveryasuna/math).
 
 On my free-time, I enjoy researching existing technologies to identify room for improvement or addition.
@@ -37,34 +37,34 @@ Similar features were adopted in later Vaadin versions.
         <h2>Computer Science  ⁄  Math</h2>
         <p>
           <b><a href="https://github.com/oliveryasuna/math">Mathematics Library</a></b><br/>
-          Abstract algebra mathematics structures and components.
+          Abstract algebra mathematics structures and components
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/crypto">Cryptography Library</a></b><br/>
-          TOTP (RFC 6238) and HOTP (RFC 4226) reference implementations, and more, for practice.
+          TOTP (RFC 6238) and HOTP (RFC 4226) reference implementations, and more, for practice
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/googa">Googa</a></b> (abandoned)<br/>
-          Strongly-typed SQL query builder for TypeScript.
+          Strongly-typed SQL query builder for TypeScript
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/automaton">Automaton</a></b><br/>
-          Simple automaton structures, for practice.
+          Simple automaton structures, for practice
         </p>
       </td>
       <td width="50%" valign="top">
         <h2>React</h2>
         <p>
           <b><a href="https://github.com/oliveryasuna/themeable)">Themeable</a></b> (in-progress)<br/>
-          Simplified theme management for your React applications.
+          Simplified theme management for your React applications
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/hooksies">Hooksies</a></b><br/>
-          A collection of React hooks that I use.
+          A collection of React hooks that I use
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/vaadin-react">React-in-Vaadin</a></b><br/>
-          Proof-of-concept using React in Vaadin (without Hilla).
+          Proof-of-concept using React in Vaadin (without Hilla)
         </p>
       </td>
     </tr>
@@ -73,67 +73,71 @@ Similar features were adopted in later Vaadin versions.
         <h2>Capacitor</h2>
         <p>
           <b><a href="https://github.com/oliveryasuna/capacitor-sqlite-drivers">Capacitor SQLite Drivers</a></b><br/>
-          Capacitor SQLite drivers for various ORMs.
+          Capacitor SQLite drivers for various ORMs
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/capacitor-missing-info">Missing Info</a></b><br/>
-          A growing collection of missing and extra features for Capacitor apps.
+          A growing collection of missing and extra features for Capacitor apps
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/capacitor-logrocket">LogRocket Integration</a></b><br/>
-          Experimental LogRocket integration for Capacitor apps.
+          Experimental LogRocket integration for Capacitor apps
         </p>
         <h2>Miscellaneous</h2>
         <p>
           <b><a href="https://github.com/oliveryasuna/cereal">Cereal</a></b><br/>
-          A simple binary serialization format for JSON.
+          A simple binary serialization format for JSON
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/commons-language">Commons Language</a></b><br/>
-          Java language commons.
+          Java language commons
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/beanbag">Beanbag</a></b><br/>
-          Observable Java structures.
+          Observable Java structures
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/lit-shop">Lit Shop</a></b><br/>
-          A collection of Lit frameworks and libraries.
+          A collection of Lit frameworks and libraries
         </p>
       </td>
       <td width="50%" valign="top">
         <h2>Vaadin</h2>
         <p>
+          <b><a href="https://github.com/oliveryasuna/vaadin-react-renderer">React Renderer</a></b><br/>
+          Vaadin React renderer alternative to LitRenderer
+        </p>
+        <p>
           <b><a href="https://github.com/oliveryasuna/fluent-flow-2">Fluent Flow</a></b><br/>
-          Fluent factories for all things Vaadin.
+          Fluent factories for all things Vaadin
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/vaadin-logrocket-integration">LogRocket Integration</a></b><br/>
-          LogRocket integration for Vaadin.
+          LogRocket integration for Vaadin
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/vaadin-leaflet">Leaflet Integration</a></b><br/>
-          Leaflet map component and utilities for Vaadin.
+          Leaflet map component and utilities for Vaadin
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/flow-commons">Flow Commons</a></b><br/>
-          A commons library for Vaadin Flow.
+          A commons library for Vaadin Flow
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/lit-component">Lit Component</a></b><br/>
-          Model LitElement web components with Vaadin.
+          Model LitElement web components with Vaadin
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/gimme-dom">Gimme DOM</a></b><br/>
-          A Vaadin 8 extension enabling developers to have more control over the web DOM.
+          A Vaadin 8 extension enabling developers to have more control over the web DOM
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/vaadin-jetty-guice">Vaadin + Jetty + Guice</a></b><br/>
-          A Vaadin servlet running in an embedded Jetty server with Guice as a dependency injection framework.
+          A Vaadin servlet running in an embedded Jetty server with Guice as a dependency injection framework
         </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/vaadin-native-image">Vaadin Native Image</a></b><br/>
-          Example of a Vaadin application that can be compiled to a native image using GraalVM.
+          Example of a Vaadin application that can be compiled to a native image using GraalVM
         </p>
       </td>
     </tr>
