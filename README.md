@@ -21,7 +21,7 @@ I am currently working on:
 * [Capacitor SQLite Drivers](https://github.com/oliveryasuna/capacitor-sqlite-drivers) – Capacitor SQLite drivers for various ORMs.
 * [Themeable](https://github.com/oliveryasuna/themeable) – Simplified theme management system for React.
 
-My most notable recent release is [vaadin-react-renderer](https://github.com/oliveryasuna/vaadin-react-renderer).
+My most notable recent release is [vaadin-logrocket-integration](https://github.com/oliveryasuna/vaadin-logrocket-integration).
 Also, check out my [abstract algebra project](https://github.com/oliveryasuna/math).
 
 On my free-time, I enjoy researching existing technologies to identify room for improvement or addition.
@@ -103,10 +103,6 @@ Similar features were adopted in later Vaadin versions.
       </td>
       <td width="50%" valign="top">
         <h2>Vaadin</h2>
-        <p>
-          <b><a href="https://github.com/oliveryasuna/vaadin-react-renderer">React Renderer</a></b><br/>
-          Vaadin React renderer alternative to LitRenderer
-        </p>
         <p>
           <b><a href="https://github.com/oliveryasuna/fluent-flow-2">Fluent Flow</a></b><br/>
           Fluent factories for all things Vaadin
