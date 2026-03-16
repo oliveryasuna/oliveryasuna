@@ -17,10 +17,6 @@ Hi, I'm Oliver!
 <code><img height="20" alt="jOOQ" src="https://www.jooq.org/img/jooq-logo-black.png"></code>
 <code><img height="20" alt="AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 
-I am currently working on:
-* [Capacitor SQLite Drivers](https://github.com/oliveryasuna/capacitor-sqlite-drivers) – Capacitor SQLite drivers for various ORMs.
-* [Themeable](https://github.com/oliveryasuna/themeable) – Simplified theme management system for React.
-
 My most notable recent release is [vaadin-logrocket-integration](https://github.com/oliveryasuna/vaadin-logrocket-integration).
 Also, check out my [abstract algebra project](https://github.com/oliveryasuna/math).
 
