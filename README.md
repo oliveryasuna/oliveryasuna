@@ -51,10 +51,6 @@ Similar features were adopted in later Vaadin versions.
       <td width="50%" valign="top">
         <h2>React</h2>
         <p>
-          <b><a href="https://github.com/oliveryasuna/themeable)">Themeable</a></b> (in-progress)<br/>
-          Simplified theme management for your React applications
-        </p>
-        <p>
           <b><a href="https://github.com/oliveryasuna/hooksies">Hooksies</a></b><br/>
           A collection of React hooks that I use
         </p>
