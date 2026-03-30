@@ -17,15 +17,6 @@ Hi, I'm Oliver!
 <code><img height="20" alt="jOOQ" src="https://www.jooq.org/img/jooq-logo-black.png"></code>
 <code><img height="20" alt="AWS" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 
-My most notable recent release is [vaadin-logrocket-integration](https://github.com/oliveryasuna/vaadin-logrocket-integration).
-Also, check out my [abstract algebra project](https://github.com/oliveryasuna/math).
-
-On my free-time, I enjoy researching existing technologies to identify room for improvement or addition.
-I have written a lot for [Vaadin](https://vaadin.com/).
-[Fluent Flow](https://github.com/oliveryasuna/fluent-flow-2) simplifies Vaadin UI composition with cleaner and more powerful code.
-I also wrote [Gimme DOM](https://github.com/oliveryasuna/gimme-dom), an extension for Vaadin 8 enabling legacy Vaadin developers to access client-side DOM.
-Similar features were adopted in later Vaadin versions.
-
 <table width="100%">
   <tbody>
     <tr>
@@ -57,6 +48,15 @@ Similar features were adopted in later Vaadin versions.
         <p>
           <b><a href="https://github.com/oliveryasuna/vaadin-react">React-in-Vaadin</a></b><br/>
           Proof-of-concept using React in Vaadin (without Hilla)
+        </p>
+        <h2>3DS</h2>
+        <p>
+          <b><a href="https://github.com/oliveryasuna/open_agb_firm">open_agb_firm</a></b><br/>
+          Fork to support running GBA games on the bare-metal 3DS with Action Replay and more.
+        </p>
+        <p>
+          <b><a href="https://github.com/oliveryasuna/libn3ds">libn3ds</a></b><br/>
+          Fork to support GBA Action Replay.
         </p>
       </td>
     </tr>
