@@ -10,8 +10,8 @@ I build full-stack systems for clients globally — from architecture through pr
 
 <a href="https://www.java.com/en/"><code><img height="40" alt="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code></a>
 <a href="https://www.typescriptlang.org/"><code><img height="40" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code></a>
-<a href="https://react.dev/"><code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></a>
 <a href="https://www.python.org/"><code><img height="40" alt="Python" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code></a>
+<a href="https://react.dev/"><code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></a>
 <a href="https://spring.io/"><code><img height="40" alt="Spring" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png"></code></a>
 <a href="https://www.jooq.org/"><code><img height="40" alt="jOOQ" src="https://www.jooq.org/img/jooq-logo-black.png"></code></a>
 <a href="https://vaadin.com/"><code><img height="40" alt="Vaadin" src="https://cdn2.hubspot.net/hubfs/1840687/Pages/trademark/vaadin-logo.svg"></code></a>
