@@ -59,12 +59,13 @@ I build full-stack systems for clients globally — from architecture through pr
 | [**Vaadin + Jetty + Guice**](https://github.com/oliveryasuna/vaadin-jetty-guice) | Vaadin servlet in embedded Jetty with Guice DI |
 | [**Vaadin Native Image**](https://github.com/oliveryasuna/vaadin-native-image) | Vaadin app compiled to native image via GraalVM |
 
-#### 3DS Homebrew
+#### Gaming
 
 | Project | Description |
 |---------|-------------|
 | [**open_agb_firm**](https://github.com/oliveryasuna/open_agb_firm) | Fork adding Action Replay support for bare-metal GBA on 3DS |
 | [**libn3ds**](https://github.com/oliveryasuna/libn3ds) | Fork adding GBA Action Replay support |
+| [**smb-recomp**](https://github.com/oliveryasuna/smb-recomp) | Super Mario Bros. recomp |
 
 #### Miscellaneous
 
