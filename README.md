@@ -63,6 +63,7 @@ I build full-stack systems for clients globally — from architecture through pr
 
 | Project | Description |
 |---------|-------------|
+| [**Wabbajack-macOS**](https://github.com/oliveryasuna/Wabbajack-macOS) | Use Wabbajack modlists on macOS |
 | [**open_agb_firm**](https://github.com/oliveryasuna/open_agb_firm) | Fork adding Action Replay support for bare-metal GBA on 3DS |
 | [**libn3ds**](https://github.com/oliveryasuna/libn3ds) | Fork adding GBA Action Replay support |
 | [**smb-recomp**](https://github.com/oliveryasuna/smb-recomp) | Super Mario Bros. recomp |
