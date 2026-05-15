@@ -65,6 +65,7 @@ I build full-stack systems for clients globally — from architecture through pr
 |---------|-------------|
 | [**sweetroll**](https://github.com/oliveryasuna/sweetroll) |  Potentially a modern MO2 replacement? |
 | [**Wabbajack-macOS**](https://github.com/oliveryasuna/Wabbajack-macOS) | Use Wabbajack modlists on macOS |
+| [**fo3-macos-wine**](https://github.com/oliveryasuna/fo3-macos-wine) |  Run Fallout 3 with Wine on Apple Silicon |
 | [**open_agb_firm**](https://github.com/oliveryasuna/open_agb_firm) | Fork adding Action Replay support for bare-metal GBA on 3DS |
 | [**libn3ds**](https://github.com/oliveryasuna/libn3ds) | Fork adding GBA Action Replay support |
 | [**smb-recomp**](https://github.com/oliveryasuna/smb-recomp) | Super Mario Bros. recomp |
