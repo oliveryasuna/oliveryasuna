@@ -63,6 +63,7 @@ I build full-stack systems for clients globally — from architecture through pr
 
 | Project | Description |
 |---------|-------------|
+| [**sweetroll**](https://github.com/oliveryasuna/sweetroll) |  Potentially a modern MO2 replacement? |
 | [**Wabbajack-macOS**](https://github.com/oliveryasuna/Wabbajack-macOS) | Use Wabbajack modlists on macOS |
 | [**open_agb_firm**](https://github.com/oliveryasuna/open_agb_firm) | Fork adding Action Replay support for bare-metal GBA on 3DS |
 | [**libn3ds**](https://github.com/oliveryasuna/libn3ds) | Fork adding GBA Action Replay support |
@@ -75,3 +76,4 @@ I build full-stack systems for clients globally — from architecture through pr
 | [**Commons Language**](https://github.com/oliveryasuna/commons-language) | Java language commons |
 | [**Beanbag**](https://github.com/oliveryasuna/beanbag) | Observable Java structures |
 | [**Lit Shop**](https://github.com/oliveryasuna/lit-shop) | Lit frameworks and libraries |
+| [**markdown-to-medium**](https://github.com/oliveryasuna/markdown-to-medium) | Write your Medium stories in Markdown! |
