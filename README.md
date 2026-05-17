@@ -26,38 +26,38 @@ I build full-stack systems for clients globally — from architecture through pr
 
 | Project | Description |
 |---------|-------------|
-| [**Mathematics Library**](https://github.com/oliveryasuna/math) | Abstract algebra structures and components |
-| [**Cryptography Library**](https://github.com/oliveryasuna/crypto) | TOTP (RFC 6238) and HOTP (RFC 4226) reference implementations |
-| [**Cereal**](https://github.com/oliveryasuna/cereal) | Binary serialization format for JSON |
-| [**Automaton**](https://github.com/oliveryasuna/automaton) | Simple automaton structures |
+| [**math**](https://github.com/oliveryasuna/math) | Abstract algebra structures and components |
+| [**crypto**](https://github.com/oliveryasuna/crypto) | TOTP (RFC 6238) and HOTP (RFC 4226) reference implementations |
+| [**cereal**](https://github.com/oliveryasuna/cereal) | Binary serialization format for JSON |
+| [**automaton**](https://github.com/oliveryasuna/automaton) | Simple automaton structures |
 
 #### React
 
 | Project | Description |
 |---------|-------------|
-| [**Hooksies**](https://github.com/oliveryasuna/hooksies) | A collection of React hooks |
-| [**React-in-Vaadin**](https://github.com/oliveryasuna/vaadin-react) | Proof-of-concept using React in Vaadin (without Hilla) |
+| [**hooksies**](https://github.com/oliveryasuna/hooksies) | A collection of React hooks |
+| [**vaadin-react**](https://github.com/oliveryasuna/vaadin-react) | Proof-of-concept using React in Vaadin (without Hilla) |
 
 #### Capacitor
 
 | Project | Description |
 |---------|-------------|
-| [**Capacitor SQLite Drivers**](https://github.com/oliveryasuna/capacitor-sqlite-drivers) | SQLite drivers for various ORMs |
-| [**Missing Info**](https://github.com/oliveryasuna/capacitor-missing-info) | Missing and extra features for Capacitor apps |
-| [**LogRocket Integration**](https://github.com/oliveryasuna/capacitor-logrocket) | Experimental LogRocket integration |
+| [**capacitor-sqlite-drivers**](https://github.com/oliveryasuna/capacitor-sqlite-drivers) | SQLite drivers for various ORMs |
+| [**capacitor-missing-info**](https://github.com/oliveryasuna/capacitor-missing-info) | Missing and extra features for Capacitor apps |
+| [**capacitor-logrocket**](https://github.com/oliveryasuna/capacitor-logrocket) | Experimental LogRocket integration |
 
 #### Vaadin
 
 | Project | Description |
 |---------|-------------|
-| [**Fluent Flow**](https://github.com/oliveryasuna/fluent-flow-2) | Fluent factories for all things Vaadin |
-| [**Leaflet Integration**](https://github.com/oliveryasuna/vaadin-leaflet) | Leaflet map component and utilities |
-| [**LogRocket Integration**](https://github.com/oliveryasuna/vaadin-logrocket-integration) | LogRocket integration for Vaadin |
-| [**Flow Commons**](https://github.com/oliveryasuna/flow-commons) | Commons library for Vaadin Flow |
-| [**Lit Component**](https://github.com/oliveryasuna/lit-component) | Model LitElement web components with Vaadin |
-| [**Gimme DOM**](https://github.com/oliveryasuna/gimme-dom) | Vaadin 8 extension for more DOM control |
-| [**Vaadin + Jetty + Guice**](https://github.com/oliveryasuna/vaadin-jetty-guice) | Vaadin servlet in embedded Jetty with Guice DI |
-| [**Vaadin Native Image**](https://github.com/oliveryasuna/vaadin-native-image) | Vaadin app compiled to native image via GraalVM |
+| [**fluent-flow-2**](https://github.com/oliveryasuna/fluent-flow-2) | Fluent factories for all things Vaadin |
+| [**vaadin-leaflet**](https://github.com/oliveryasuna/vaadin-leaflet) | Leaflet map component and utilities |
+| [**vaadin-logrocket-integration**](https://github.com/oliveryasuna/vaadin-logrocket-integration) | LogRocket integration for Vaadin |
+| [**flow-commons**](https://github.com/oliveryasuna/flow-commons) | Commons library for Vaadin Flow |
+| [**lit-component**](https://github.com/oliveryasuna/lit-component) | Model LitElement web components with Vaadin |
+| [**gimme-dom**](https://github.com/oliveryasuna/gimme-dom) | Vaadin 8 extension for more DOM control |
+| [**vaadin-jetty-guice**](https://github.com/oliveryasuna/vaadin-jetty-guice) | Vaadin servlet in embedded Jetty with Guice DI |
+| [**vaadin-native-image**](https://github.com/oliveryasuna/vaadin-native-image) | Vaadin app compiled to native image via GraalVM |
 
 #### Gaming
 
@@ -74,7 +74,7 @@ I build full-stack systems for clients globally — from architecture through pr
 
 | Project | Description |
 |---------|-------------|
-| [**Commons Language**](https://github.com/oliveryasuna/commons-language) | Java language commons |
-| [**Beanbag**](https://github.com/oliveryasuna/beanbag) | Observable Java structures |
-| [**Lit Shop**](https://github.com/oliveryasuna/lit-shop) | Lit frameworks and libraries |
+| [**commons-language**](https://github.com/oliveryasuna/commons-language) | Java language commons |
+| [**beanbag**](https://github.com/oliveryasuna/beanbag) | Observable Java structures |
+| [**lit-shop**](https://github.com/oliveryasuna/lit-shop) | Lit frameworks and libraries |
 | [**markdown-to-medium**](https://github.com/oliveryasuna/markdown-to-medium) | Write your Medium stories in Markdown! |
