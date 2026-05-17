@@ -26,7 +26,8 @@ I build full-stack systems for clients globally — from architecture through pr
 
 | Project | Description |
 |---------|-------------|
-| [**math**](https://github.com/oliveryasuna/math) | Abstract algebra structures and components |
+| [**abstract-algebra**](https://github.com/oliveryasuna/abstract-algebra) | Abstract algebra structures and components (TypeScript) |
+| [**math**](https://github.com/oliveryasuna/math) | Abstract algebra structures and components (Java) |
 | [**crypto**](https://github.com/oliveryasuna/crypto) | TOTP (RFC 6238) and HOTP (RFC 4226) reference implementations |
 | [**cereal**](https://github.com/oliveryasuna/cereal) | Binary serialization format for JSON |
 | [**automaton**](https://github.com/oliveryasuna/automaton) | Simple automaton structures |
