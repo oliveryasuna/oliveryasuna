@@ -1,6 +1,6 @@
 # Hey, I'm Oliver 👋
 
-Operational engineer at [Sferion](https://sferion.com/) · [WPI](https://www.wpi.edu/) CS alumnus · [jOOQ](https://www.jooq.org/) fanatic
+[WPI](https://www.wpi.edu/) CS alumnus · [jOOQ](https://www.jooq.org/) fanatic
 
 I build full-stack systems for clients globally — from architecture through production. Currently working with Java, TypeScript, React, Spring Boot, jOOQ, Bun, and more.
 
