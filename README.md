@@ -1,6 +1,6 @@
 # Hey, I'm Oliver 👋
 
-Founder & CEO, [Yasuna Technical Group](https://yasunatechgroup.com/) · [WPI](https://www.wpi.edu/) CS alumnus · [jOOQ](https://www.jooq.org/) fanatic
+Founder, [Yasuna Technical Group](https://yasunatechgroup.com/) · [WPI](https://www.wpi.edu/) CS alumnus · [jOOQ](https://www.jooq.org/) fanatic
 
 I partner with companies to build full-stack systems — from architecture past production. Currently working with Java, TypeScript, Python, React, Spring Boot, jOOQ, Bun, and more.
 
