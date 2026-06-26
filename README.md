@@ -64,7 +64,6 @@ I partner with companies to build full-stack systems — from architecture past 
 
 | Project | Description |
 |---------|-------------|
-| [**sweetroll**](https://github.com/oliveryasuna/sweetroll) |  Potentially a modern MO2 replacement? |
 | [**Wabbajack-macOS**](https://github.com/oliveryasuna/Wabbajack-macOS) | Use Wabbajack modlists on macOS |
 | [**fo3-macos-wine**](https://github.com/oliveryasuna/fo3-macos-wine) |  Run Fallout 3 with Wine on Apple Silicon |
 | [**open_agb_firm**](https://github.com/oliveryasuna/open_agb_firm) | Fork adding Action Replay support for bare-metal GBA on 3DS |
