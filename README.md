@@ -64,6 +64,7 @@ I partner with companies to build full-stack systems — from architecture past 
 
 | Project | Description |
 |---------|-------------|
+| [**modkit**](https://github.com/oliveryasuna/modkit) | Suite of Gradle plugins for building Minecraft mods |
 | [**minecraft-mods**](https://github.com/oliveryasuna/minecraft-mods) | Minecraft mods and mod libraries |
 | [**wabbajack-macos**](https://github.com/oliveryasuna/Wabbajack-macOS) | Use Wabbajack modlists on macOS |
 | [**fo3-macos-wine**](https://github.com/oliveryasuna/fo3-macos-wine) |  Run Fallout 3 with Wine on Apple Silicon |
