@@ -67,7 +67,7 @@ I partner with companies to build full-stack systems — from architecture past 
 |---------|-------------|
 | [**modkit**](https://github.com/oliveryasuna/modkit) | Suite of Gradle plugins for building Minecraft mods |
 | [**minecraft-mods**](https://github.com/oliveryasuna/minecraft-mods) | Minecraft mods and mod libraries (monorepo) |
-| [**clear-sky**](https://github.com/oliveryasuna/clear-sky) AA Minecraft mod that adds truly clear skies |
+| [**clear-sky**](https://github.com/oliveryasuna/clear-sky) | A Minecraft mod that adds truly clear skies |
 | [**wabbajack-macos**](https://github.com/oliveryasuna/Wabbajack-macOS) | Use Wabbajack modlists on macOS |
 | [**fo3-macos-wine**](https://github.com/oliveryasuna/fo3-macos-wine) |  Run Fallout 3 with Wine on Apple Silicon |
 | [**open_agb_firm**](https://github.com/oliveryasuna/open_agb_firm) | Fork adding Action Replay support for bare-metal GBA on 3DS |
